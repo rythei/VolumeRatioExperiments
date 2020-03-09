@@ -1,0 +1,13 @@
+{"RUNID": "001",
+"dataset": "mnist", 
+"N_start": 10, 
+"N_finish": 100, 
+"N_by": 10, 
+"n_samples": 500,
+"n_cores": "all", 
+"label1": 0, 
+"label2": 1, 
+"corrupt_fraction": 0, 
+"fourier_features": null,
+"n_test_points": 5000
+}
